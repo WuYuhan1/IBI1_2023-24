@@ -7,9 +7,10 @@ e=b-c
 #The combination of running	and	strength exercises had a greater improvement on	running	time.
 X=True
 Y=False
-W=(X or Y)
+W=(not(X and Y) and (X or Y))
+#Truth table of W:
 #X    Y    W
-#True True True
+#True True False
 #True False True
 #False True True
 #False False False

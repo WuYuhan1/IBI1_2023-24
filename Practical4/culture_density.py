@@ -6,3 +6,4 @@ while cell<=0.9:
     cell=cell*2
     day=day+1
 print('On the '+str(day)+'th day, the cell density goes over 90%, which is the maximum number of days I can have a holiday from the lab. ')
+

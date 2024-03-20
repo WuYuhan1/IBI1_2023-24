@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer: It draws a integer from 1 to 10 for 100 times and displays the sum of them.
+# Answer: It draws a integer from 1 to 10 for 100 times and displays the sum of them. 
 
 # Import libraries
 # randint allows drawing a random number,
