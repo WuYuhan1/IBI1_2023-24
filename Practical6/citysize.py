@@ -1,6 +1,6 @@
+#import module
+import matplotlib.pyplot as plt
 #input population of cities
-#make the list
-#print the list
 Edinburgh=0.56
 Glasgow=0.62
 Stirling=0.04
@@ -9,12 +9,13 @@ Haining=0.58
 Hangzhou=8.4
 Shanghai=29.9
 Beijing=22.2 
+#make the list
 uk_city_population=[Edinburgh,Glasgow,Stirling,London]
 china_city_population=[Haining,Hangzhou,Shanghai,Beijing]
+#print the list
 print(uk_city_population)
 print(china_city_population)
 #make bar plots
-import matplotlib.pyplot as plt
 #cities of UK
 plt.ylabel("Population(millions)")
 plt.title("City size in the UK")
