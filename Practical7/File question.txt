@@ -1,0 +1,3 @@
+Are there places in the World where the DALYs in 2019 is less than 18,000? If so, where are they?
+line 39
+The countries with DALYs less than 18000 in 2019 are all developed countries, which may have better medical and public health conditions.
