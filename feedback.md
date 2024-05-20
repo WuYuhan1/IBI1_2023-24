@@ -1,1 +1,1 @@
-
+Some of my commit messages were evaluated as not formative in the formative feedback. Now I'm clear that I should write what I did clearly if I make some changes on the document.
