@@ -1,0 +1,7 @@
+The results show that:
+human and mouse: percentage:  0.9253968253968254 score:  3137
+mouse and rat: percentage:  0.9682539682539683 score:  3261
+human and rat: percentage:  0.9174603174603174 score:  3107
+
+The mouse and rat are the most closely related because they have both the biggst alignment score and percentage of identical amino acids.
+Mouse is a better model organism for human because they are more closely related to human because of larger alignment score and percentage of identical amino acids.

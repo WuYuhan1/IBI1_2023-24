@@ -1,0 +1,1337 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://ncbiinsights.ncbi.nlm.nih.gov/xmlrpc.php">
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<!-- Jetpack Site Verification Tags -->
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>NCBI Outreach Events - NCBI Insights</title>
+	<meta name="description" content="NCBI&#039;s outreach activities include educational events (such as workshops, webinars, and codeathons) and participation in scientific conferences. The NCBI Outreach events site lists our activities by date and provides you a way to apply for or register to attend these activities. For each past educational event, we provide a link for access to relevant materials." />
+	<link rel="canonical" href="https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="NCBI Outreach Events - NCBI Insights" />
+	<meta property="og:description" content="NCBI&#039;s outreach activities include educational events (such as workshops, webinars, and codeathons) and participation in scientific conferences. The NCBI Outreach events site lists our activities by date and provides you a way to apply for or register to attend these activities. For each past educational event, we provide a link for access to relevant materials." />
+	<meta property="og:url" content="https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/" />
+	<meta property="og:site_name" content="NCBI Insights" />
+	<meta property="article:publisher" content="https://www.facebook.com/ncbi.nlm" />
+	<meta property="article:modified_time" content="2023-10-02T15:41:06+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@NCBI" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/","url":"https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/","name":"NCBI Outreach Events - NCBI Insights","isPartOf":{"@id":"https://ncbiinsights.ncbi.nlm.nih.gov/#website"},"datePublished":"2021-07-27T14:08:28+00:00","dateModified":"2023-10-02T15:41:06+00:00","description":"NCBI's outreach activities include educational events (such as workshops, webinars, and codeathons) and participation in scientific conferences. The NCBI Outreach events site lists our activities by date and provides you a way to apply for or register to attend these activities. For each past educational event, we provide a link for access to relevant materials.","breadcrumb":{"@id":"https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/"]}]},{"@type":"BreadcrumbList","@id":"https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://ncbiinsights.ncbi.nlm.nih.gov/"},{"@type":"ListItem","position":2,"name":"NCBI Outreach Events"}]},{"@type":"WebSite","@id":"https://ncbiinsights.ncbi.nlm.nih.gov/#website","url":"https://ncbiinsights.ncbi.nlm.nih.gov/","name":"National Center for Biotechnology Information","description":"News about NCBI resources and events","publisher":{"@id":"https://ncbiinsights.ncbi.nlm.nih.gov/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ncbiinsights.ncbi.nlm.nih.gov/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://ncbiinsights.ncbi.nlm.nih.gov/#organization","name":"National Center for Biotechnology Information","alternateName":"NCBI","url":"https://ncbiinsights.ncbi.nlm.nih.gov/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://ncbiinsights.ncbi.nlm.nih.gov/#/schema/logo/image/","url":"https://i0.wp.com/ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2023/03/nih-nlm-ncbi-two-color.png?fit=6374%2C760&ssl=1","contentUrl":"https://i0.wp.com/ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2023/03/nih-nlm-ncbi-two-color.png?fit=6374%2C760&ssl=1","width":6374,"height":760,"caption":"National Center for Biotechnology Information"},"image":{"@id":"https://ncbiinsights.ncbi.nlm.nih.gov/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/ncbi.nlm","https://x.com/NCBI","https://www.linkedin.com/company/ncbinlm/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="NCBI Insights &raquo; Feed" href="https://ncbiinsights.ncbi.nlm.nih.gov/feed/" />
+<link rel="alternate" type="application/rss+xml" title="NCBI Insights &raquo; Comments Feed" href="https://ncbiinsights.ncbi.nlm.nih.gov/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ncbiinsights.ncbi.nlm.nih.gov\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-479da7210df4885e300eb9e600a1a513' href='https://ncbiinsights.ncbi.nlm.nih.gov/_static/??-eJytUltuAyEMvFAJ2kRKv6r+ROoBeoCKBYd1llcwNNrbF7ZJ82jz0KrixzYzg21mF5j0LoFLPJis0RHXuaQtRM3bjEbx1njZM4NtFHHglAYDM0n0tPtNNWLwOTEdUZ0D0UmTFRDfELegUIABW5mnSSh0iMyAFnKYWXR32eXuND/lXLZWSvBZCswKJzRELoggES9wLjtPMIm5jiNYTXm5DLPZZogDy3iMpqsktBBQ9uXuuzI7VqZuZhfAjt85RWBdcHTbMJdek94G7+AuT/rRlcR/rLGCUP4BnMSSvPmVUGrg71WD9tpGJKB0TXEDKQjZc+tVrhyDPVxpInXFbfXvhesNur1hH8PKrrTCmnqa2yMeGvooI3INDiIWCP0d/v+zhz1QJyKocZs1RKcfapi8RGGY8drTWXLLSAeF6rx9XKGv9qV5bhbzZrGcL78AewzJqA==' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='jetpack-sharing-buttons-style-inline-css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+:where(.wp-block-navigation a:where(:not(.wp-element-button))){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://ncbiinsights.ncbi.nlm.nih.gov/wp-includes/css/dashicons.min.css?ver=6.5.3' media='all' />
+<link rel='stylesheet' id='franklin-fonts-css' href='https://fonts-api.wp.com/css?family=Open+Sans%3A400%2C600%7CSource+Sans+Pro%3A400%2C700%2C900&#038;subset=latin%2Clatin-ext' media='all' />
+<style id='wcw-inlinecss-inline-css'>
+ .widget_wpcategorieswidget ul.children{display:none;} .widget_wp_categories_widget{background:#fff; position:relative;}.widget_wp_categories_widget h2,.widget_wpcategorieswidget h2{color:#4a5f6d;font-size:20px;font-weight:400;margin:0 0 25px;line-height:24px;text-transform:uppercase}.widget_wp_categories_widget ul li,.widget_wpcategorieswidget ul li{font-size: 16px; margin: 0px; border-bottom: 1px dashed #f0f0f0; position: relative; list-style-type: none; line-height: 35px;}.widget_wp_categories_widget ul li:last-child,.widget_wpcategorieswidget ul li:last-child{border:none;}.widget_wp_categories_widget ul li a,.widget_wpcategorieswidget ul li a{display:inline-block;color:#007acc;transition:all .5s ease;-webkit-transition:all .5s ease;-ms-transition:all .5s ease;-moz-transition:all .5s ease;text-decoration:none;}.widget_wp_categories_widget ul li a:hover,.widget_wp_categories_widget ul li.active-cat a,.widget_wp_categories_widget ul li.active-cat span.post-count,.widget_wpcategorieswidget ul li a:hover,.widget_wpcategorieswidget ul li.active-cat a,.widget_wpcategorieswidget ul li.active-cat span.post-count{color:#ee546c}.widget_wp_categories_widget ul li span.post-count,.widget_wpcategorieswidget ul li span.post-count{height: 30px; min-width: 35px; text-align: center; background: #fff; color: #605f5f; border-radius: 5px; box-shadow: inset 2px 1px 3px rgba(0, 122, 204,.1); top: 0px; float: right; margin-top: 2px;}li.cat-item.cat-have-child > span.post-count{float:inherit;}li.cat-item.cat-item-7.cat-have-child { background: #f8f9fa; }li.cat-item.cat-have-child > span.post-count:before { content: "("; }li.cat-item.cat-have-child > span.post-count:after { content: ")"; }.cat-have-child.open-m-menu ul.children li { border-top: 1px solid #d8d8d8;border-bottom:none;}li.cat-item.cat-have-child:after{ position: absolute; right: 8px; top: 8px; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAABmJLR0QA/wD/AP+gvaeTAAAAoklEQVQ4je3PzQpBURSG4WfknztxGS6BKOIaDQwkSXJTnI7J2rXbhSND3lqTtb/19m3+NGWANVof3LTiZpAWXVxQY4t2A0k7snXcdmGMKpY1dui8kHQik/JVOMAC9+zxlFfO6GFfSDZlaI5bFjpjWEgOhWT9rHYpu2CEPo7Z/v5KklgW37zG5JLlO0liVjTLJaumkmeyj5qUTEP2lSQxiflVHtR5PTMAQTkfAAAAAElFTkSuQmCC); content: ""; width: 18px; height: 18px;transform: rotate(270deg);}ul.children li.cat-item.cat-have-child:after{content:"";background-image: none;}.cat-have-child ul.children {display: none; z-index: 9; width: auto; position: relative; margin: 0px; padding: 0px; margin-top: 0px; padding-top: 10px; padding-bottom: 10px; list-style: none; text-align: left; background:  #f8f9fa; padding-left: 5px;}.widget_wp_categories_widget ul li ul.children li,.widget_wpcategorieswidget ul li ul.children li { border-bottom: 1px solid #fff; padding-right: 5px; }.cat-have-child.open-m-menu ul.children{display:block;}li.cat-item.cat-have-child.open-m-menu:after{transform: rotate(0deg);}.widget_wp_categories_widget > li.product_cat,.widget_wpcategorieswidget > li.product_cat {list-style: none;}.widget_wp_categories_widget > ul,.widget_wpcategorieswidget > ul {padding: 0px;}.widget_wp_categories_widget > ul li ul ,.widget_wpcategorieswidget > ul li ul {padding-left: 15px;}
+</style>
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<script type="text/javascript" src="https://ncbiinsights.ncbi.nlm.nih.gov/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" id="jquery-core-js-after">
+/* <![CDATA[ */
+jQuery(document).ready(function($){ jQuery('li.cat-item:has(ul.children)').addClass('cat-have-child'); jQuery('.cat-have-child').removeClass('open-m-menu');jQuery('li.cat-have-child > a').click(function(){window.location.href=jQuery(this).attr('href');return false;});jQuery('li.cat-have-child').click(function(){
+
+		var li_parentdiv = jQuery(this).parent().parent().parent().attr('class');
+			if(jQuery(this).hasClass('open-m-menu')){jQuery('.cat-have-child').removeClass('open-m-menu');}else{jQuery('.cat-have-child').removeClass('open-m-menu');jQuery(this).addClass('open-m-menu');}});});
+/* ]]> */
+</script>
+<script type='text/javascript'  src='https://ncbiinsights.ncbi.nlm.nih.gov/wp-includes/js/jquery/jquery-migrate.min.js?m=1686289764'></script>
+<!-- Google Analytics Code Snippet By GA4WP --><script async src="https://www.googletagmanager.com/gtag/js?id=G-DP2X732JSX"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());gtag('config', 'G-DP2X732JSX');</script> <!- end of Google Analytics Code Snippet by GA4WP--><link rel="https://api.w.org/" href="https://ncbiinsights.ncbi.nlm.nih.gov/wp-json/" /><link rel="alternate" type="application/json" href="https://ncbiinsights.ncbi.nlm.nih.gov/wp-json/wp/v2/pages/6321" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ncbiinsights.ncbi.nlm.nih.gov/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://wp.me/P2Tuqy-1DX' />
+<link rel="alternate" type="application/json+oembed" href="https://ncbiinsights.ncbi.nlm.nih.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fncbiinsights.ncbi.nlm.nih.gov%2Fncbi-outreach-events%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ncbiinsights.ncbi.nlm.nih.gov/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fncbiinsights.ncbi.nlm.nih.gov%2Fncbi-outreach-events%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+				<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<link rel="amphtml" href="https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/?amp"><link rel="icon" href="https://i0.wp.com/ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2021/05/nlm_favicon.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2021/05/nlm_favicon.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2021/05/nlm_favicon.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2021/05/nlm_favicon.png?fit=270%2C270&#038;ssl=1" />
+<!-- Jetpack Google Analytics -->
+			<script type='text/javascript'>
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-68648221-5']);
+_gaq.push(['_trackPageview']);
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+			<!-- End Jetpack Google Analytics -->
+	<!-- Fonts Plugin CSS - https://fontsplugin.com/ -->
+	<style>
+		/* Cached: May 7, 2024 at 10:08am */
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff1jvzRPA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff8jvzRPA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff3jvzRPA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff2jvzRPA.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7lXff4jvw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZDf-LHrw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZKf-LHrw.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZBf-LHrw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZAf-LHrw.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZOf-I.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf1jvzRPA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf8jvzRPA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf3jvzRPA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf2jvzRPA.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf1jvzRPA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf8jvzRPA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf3jvzRPA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf2jvzRPA.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4l0qyriQwlOrhSvowK_l5-eR7NWPf4jvw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZVcf6lvg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZXMf6lvg.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZV8f6lvg.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZVsf6lvg.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l521wRZWMf6.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-cSZMZ-Y.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-eCZMZ-Y.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-cyZMZ-Y.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-ciZMZ-Y.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZVcf6lvg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZXMf6lvg.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZV8f6lvg.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZVsf6lvg.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZVcf6lvg.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZXMf6lvg.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZV8f6lvg.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZVsf6lvg.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52_wFZWMf6.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+--font-base: sans-serif;
+--font-headings: Merriweather;
+}
+body, #content, .entry-content, .post-content, .page-content, .post-excerpt, .entry-summary, .entry-excerpt, .widget-area, .widget, .sidebar, #sidebar, footer, .footer, #footer, .site-footer {
+font-family: sans-serif;
+ }
+#site-title, .site-title, #site-title a, .site-title a, .entry-title, .entry-title a, h1, h2, h3, h4, h5, h6, .widget-title, .elementor-heading-title {
+font-family: "Merriweather";
+font-weight: 700;
+ }
+	</style>
+	<!-- Fonts Plugin CSS -->
+	</head>
+
+<body class="page-template-default page page-id-6321 franklin-child-1-0-11">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+	<header id="masthead" class="site-header" role="banner">
+
+		<div class="site-header-top">
+			<div class="inner">        
+				<a href="https://www.ncbi.nlm.nih.gov" class="site-description" role="img" aria-label="News about NCBI resources and events"><div>News about NCBI resources and events</div></a>
+       
+				<form id="header-search" action="https://ncbiinsights.ncbi.nlm.nih.gov/">
+					<input type="search" class="search-field" name="s" value="" />
+					<button type="submit" class="search-button">Search</button>
+				</form><!-- #header-search -->
+
+				
+			</div><!-- .inner -->
+		</div><!-- .site-header-top -->
+
+		<div class="site-header-main">
+			<div class="inner">
+				<div class="site-branding">
+					<a href="https://ncbiinsights.ncbi.nlm.nih.gov/" class="site-logo-link" rel="home" itemprop="url"></a>					<h1 class="site-title"><a href="https://ncbiinsights.ncbi.nlm.nih.gov/" rel="home">NCBI Insights</a></h1>
+				</div><!-- .site-branding -->
+
+							</div><!-- .inner -->
+		</div><!-- .site-header-main -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<nav class="entry-breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><meta itemprop="position" content="1"><meta itemprop="position" content="0"><a href="https://ncbiinsights.ncbi.nlm.nih.gov/" class="home-link" itemprop="item" rel="home"><span itemprop="name">Home</span></a></span><span class="current-page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><meta itemprop="position" content="1"><span itemprop="name">NCBI Outreach Events</span></span></nav>
+			
+				
+<article id="post-6321" class="post-6321 page type-page status-publish hentry">
+	
+	<header class="entry-header">
+		<h1 class="entry-title">NCBI Outreach Events</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><span style="font-size: 18pt;"><strong>Workshops, Webinars, Codeathons &amp; Conferences</strong></span></p>
+<p><span style="font-size: 18pt;"><span style="font-size: 14pt;">We have expanded our outreach offerings and invite you to apply to attend our webinars, workshops, and codeathons or connect with our NCBI Experts at scientific conferences and meetings.</span></span></p>
+<hr />
+<p><span style="font-size: 18pt;"><strong>Upcoming Activities</strong></span><br />
+Search for upcoming NCBI webinars, workshops, codeathons, conferences and other outreach activities.</p>
+			<div class="event_listings">
+				<div class="wpem-main wpem-event-listings-header">
+    <div class="wpem-row">
+        <div class="wpem-col wpem-col-12 wpem-col-sm-6 wpem-col-md-6 wpem-col-lg-8">
+            <div class="wpem-event-listing-header-title">
+                                    <h2 class="wpem-heading-text">Upcoming Events</h2>
+                            </div>
+        </div>
+        <div class="wpem-col wpem-col-12 wpem-col-sm-6 wpem-col-md-6 wpem-col-lg-4">
+            <div class="wpem-event-layout-action-wrapper">
+                <div class="wpem-event-layout-action">
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Event listing view -->
+
+<div class="event_listings_main">
+    <div id="event-listing-view" class="wpem-main wpem-event-listings event_listings wpem-row wpem-event-listing-box-view" data-id="box">
+<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4 ">
+    <!----- wpem-col-lg-4 value can be change by admin settings ------->
+    <div class="wpem-event-layout-wrapper">
+        <div class="event_listing event-type-ncbi-conferences event_featured post-13143 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-ncbi-conferences event_listing_type-ncbi-conference">
+            <a href="https://ncbiinsights.ncbi.nlm.nih.gov/event/ncbi-nsfgrantsconference-2024/" class="wpem-event-action-url event-style-color ncbi-conference">
+                <div class="wpem-event-banner">
+                    <div class="wpem-event-banner-img" style="background-image: url(https://i0.wp.com/ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2024/04/NSF_2024_Conference.png?fit=1400%2C700&amp;ssl=1 ) ">
+                        <!-- Hide in list View // Show in Box View -->
+                                                <div class="wpem-event-date">
+                            <div class="wpem-event-date-type">
+                                <div class="wpem-from-date">
+                                    <div class="wpem-date">03</div>
+                                    <div class="wpem-month">Jun</div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Hide in list View // Show in Box View -->
+                    </div>
+                </div>
+
+                <div class="wpem-event-infomation">
+                    <div class="wpem-event-date">
+                        <div class="wpem-event-date-type">
+                            <div class="wpem-from-date">
+                                <div class="wpem-date">03</div>
+                                <div class="wpem-month">Jun</div>
+                            </div>
+                            <div class="wpem-to-date">
+                                <div class="wpem-date-separator">-</div>
+                                <div class="wpem-date">05</div>
+                                <div class="wpem-month">Jun</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="wpem-event-details">
+                        <div class="wpem-event-title">
+                            <h3 class="wpem-heading-text">NCBI @ 2024 NSF Grants Conference</h3>
+                        </div>
+                        <div class="wpem-event-date-time">
+                            <span class="wpem-event-date-time-text">06-03-2024  - 06-05-2024 </span>
+                        </div>
+                        <div class="wpem-event-location">
+                            <span class="wpem-event-location-text">
+                                Philadelphia Marriott Old City, One Dock Street, Philadelphia, Pennsylvania, USA 19106                            </span>
+                        </div>
+
+                                                    <div class="wpem-event-type"><a href="https://ncbiinsights.ncbi.nlm.nih.gov/event_listing_type/ncbi-conference/"><span class="wpem-event-type-text event-type ncbi-conference ">NCBI @ Conferences</span></a></div>
+                        
+                        <!-- Show in list View // Hide in Box View -->
+                                                <!-- Show in list View // Hide in Box View -->
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4 ">
+    <!----- wpem-col-lg-4 value can be change by admin settings ------->
+    <div class="wpem-event-layout-wrapper">
+        <div class="event_listing event-type-ncbi-webinars event_featured post-13163 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-ncbi-education event_listing_type-ncbi-webinar">
+            <a href="https://ncbiinsights.ncbi.nlm.nih.gov/event/modernized-clinicaltrials-gov-webinar-06-2024/" class="wpem-event-action-url event-style-color ncbi-webinar">
+                <div class="wpem-event-banner">
+                    <div class="wpem-event-banner-img" style="background-image: url(https://i0.wp.com/ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2024/04/CTG_Webinar1.png?fit=1200%2C627&amp;ssl=1 ) ">
+                        <!-- Hide in list View // Show in Box View -->
+                                                <div class="wpem-event-date">
+                            <div class="wpem-event-date-type">
+                                <div class="wpem-from-date">
+                                    <div class="wpem-date">06</div>
+                                    <div class="wpem-month">Jun</div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Hide in list View // Show in Box View -->
+                    </div>
+                </div>
+
+                <div class="wpem-event-infomation">
+                    <div class="wpem-event-date">
+                        <div class="wpem-event-date-type">
+                            <div class="wpem-from-date">
+                                <div class="wpem-date">06</div>
+                                <div class="wpem-month">Jun</div>
+                            </div>
+                            <div class="wpem-to-date">
+                                <div class="wpem-date-separator">-</div>
+                                <div class="wpem-date">06</div>
+                                <div class="wpem-month">Jun</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="wpem-event-details">
+                        <div class="wpem-event-title">
+                            <h3 class="wpem-heading-text">NLM Webinar: Modernized ClinicalTrials.gov Update</h3>
+                        </div>
+                        <div class="wpem-event-date-time">
+                            <span class="wpem-event-date-time-text">06-06-2024 01:00 PM (EDT) - 06-06-2024 01:45 PM (EDT)</span>
+                        </div>
+                        <div class="wpem-event-location">
+                            <span class="wpem-event-location-text">
+                                Online Event                            </span>
+                        </div>
+
+                                                    <div class="wpem-event-type"><a href="https://ncbiinsights.ncbi.nlm.nih.gov/event_listing_type/ncbi-webinar/"><span class="wpem-event-type-text event-type ncbi-webinar ">NCBI Webinars</span></a></div>
+                        
+                        <!-- Show in list View // Hide in Box View -->
+                                                <!-- Show in list View // Hide in Box View -->
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="wpem-event-box-col wpem-col wpem-col-12 wpem-col-md-6 wpem-col-lg-4 ">
+    <!----- wpem-col-lg-4 value can be change by admin settings ------->
+    <div class="wpem-event-layout-wrapper">
+        <div class="event_listing event-type-ncbi-conferences event_featured post-12909 type-event_listing status-publish has-post-thumbnail hentry event_listing_category-ncbi-education event_listing_type-ncbi-conference">
+            <a href="https://ncbiinsights.ncbi.nlm.nih.gov/event/bioed-summit-2024/" class="wpem-event-action-url event-style-color ncbi-conference">
+                <div class="wpem-event-banner">
+                    <div class="wpem-event-banner-img" style="background-image: url(https://i0.wp.com/ncbiinsights.ncbi.nlm.nih.gov/wp-content/uploads/2024/02/BioEd_Summit-3.png?fit=1200%2C627&amp;ssl=1 ) ">
+                        <!-- Hide in list View // Show in Box View -->
+                                                <div class="wpem-event-date">
+                            <div class="wpem-event-date-type">
+                                <div class="wpem-from-date">
+                                    <div class="wpem-date">05</div>
+                                    <div class="wpem-month">Aug</div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Hide in list View // Show in Box View -->
+                    </div>
+                </div>
+
+                <div class="wpem-event-infomation">
+                    <div class="wpem-event-date">
+                        <div class="wpem-event-date-type">
+                            <div class="wpem-from-date">
+                                <div class="wpem-date">05</div>
+                                <div class="wpem-month">Aug</div>
+                            </div>
+                            <div class="wpem-to-date">
+                                <div class="wpem-date-separator">-</div>
+                                <div class="wpem-date">09</div>
+                                <div class="wpem-month">Aug</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="wpem-event-details">
+                        <div class="wpem-event-title">
+                            <h3 class="wpem-heading-text">BioEd Summit: Crafting Student-Centric Curricula with NCBI Resources</h3>
+                        </div>
+                        <div class="wpem-event-date-time">
+                            <span class="wpem-event-date-time-text">08-05-2024  - 08-09-2024 </span>
+                        </div>
+                        <div class="wpem-event-location">
+                            <span class="wpem-event-location-text">
+                                NIH Natcher Conference Center 45 Center Dr, Bethesda, MD 20894                            </span>
+                        </div>
+
+                                                    <div class="wpem-event-type"><a href="https://ncbiinsights.ncbi.nlm.nih.gov/event_listing_type/ncbi-conference/"><span class="wpem-event-type-text event-type ncbi-conference ">NCBI @ Conferences</span></a></div>
+                        
+                        <!-- Show in list View // Hide in Box View -->
+                                                <!-- Show in list View // Hide in Box View -->
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div></div>
+</div>
+
+			</div>
+		
+<p>&nbsp;</p>
+<p><span style="font-size: 18pt;"><strong>All Activities</strong></span><br />
+Browse upcoming and past NCBI webinars, workshops, codeathons, conferences and other outreach activities.</p>
+<p><strong>Note:</strong> <em>On each past event page, you will find links to relevant resources, such as webinar recordings, workshop instructional materials and codeathon team repositories.</em></p>
+<div class="event_listings" data-location="" data-keywords="" data-show_filters="true" data-show_pagination="false" data-per_page="50" data-orderby="event_start_date" data-order="DESC" data-datetimes="" data-categories="" data-event_types="" data-ticket_prices="" data-event_online="" >
+<form class="wpem-main wpem-form-wrapper wpem-event-filter-wrapper event_filters" id="event_filters">
+		<div class="search_events search-form-container">
+				<div class="wpem-row">
+			<!-- Search by keywords section start -->
+			<div class="wpem-col">
+				<!-- shows default keywords text field  start-->
+				<div class="wpem-form-group">
+					<label for="search_keywords" class="wpem-form-label">Keywords</label>
+					<input type="text" name="search_keywords" id="search_keywords" placeholder="Keywords" value="" />
+				</div>
+				<!-- shows default keywords text field end -->
+			</div>
+			<!-- Search by keywords section end-->
+		</div>
+<!-- /row -->
+		<div class="wpem-row">
+			<!-- Search by event categories section start -->
+							<div class="wpem-col">
+					<div class="wpem-form-group">
+						<label for="search_categories" class="wpem-form-label">Category</label>
+						<select name='search_categories[]' id='search_categories' class='event-manager-category-dropdown ' multiple='multiple' data-placeholder='Choose a Category' data-no_results_text='No results match' data-multiple_text='Choose a Category'>
+	<option class="level-0" value="ncbi-conferences">NCBI Conference Program</option>
+	<option class="level-0" value="ncbi-education">NCBI Education Program</option>
+	<option class="level-0" value="other">Other</option>
+</select>
+											</div>
+				</div>
+						<!-- Search by event categories section end -->
+
+			<!-- Search by event type section start -->
+							<div class="wpem-col">
+					<div class="wpem-form-group">
+						<label for="search_event_types" class="wpem-form-label">Event Type</label>
+						<select name='search_event_types[]' id='search_event_types' class='event-manager-category-dropdown ' multiple='multiple' data-placeholder='Choose an event type' data-no_results_text='No results match' data-multiple_text='Choose an event type'>
+	<option class="level-0" value="ncbi-conference">NCBI @ Conferences</option>
+	<option class="level-0" value="ncbi-codeathon">NCBI Codeathons</option>
+	<option class="level-0" value="ncbi-webinar">NCBI Webinars</option>
+	<option class="level-0" value="ncbi-workshop">NCBI Workshops</option>
+	<option class="level-0" value="other">Other</option>
+</select>
+											</div>
+				</div>
+						<!-- Search by event type section end -->
+		</div> <!-- /row -->
+
+		
+	</div>
+	<div class="showing_applied_filters"></div></form>
+<noscript>Your browser does not support JavaScript, or it is disabled. JavaScript must be enabled in order to view listings.</noscript><div class="wpem-main wpem-event-listings-header">
+    <div class="wpem-row">
+        <div class="wpem-col wpem-col-12 wpem-col-sm-6 wpem-col-md-6 wpem-col-lg-8">
+            <div class="wpem-event-listing-header-title">
+                                    <h2 class="wpem-heading-text">Events</h2>
+                            </div>
+        </div>
+        <div class="wpem-col wpem-col-12 wpem-col-sm-6 wpem-col-md-6 wpem-col-lg-4">
+            <div class="wpem-event-layout-action-wrapper">
+                <div class="wpem-event-layout-action">
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Event listing view -->
+
+<div class="event_listings_main">
+    <div id="event-listing-view" class="wpem-main wpem-event-listings event_listings wpem-event-listing-list-view" data-id="list"></div>
+<div id="load_more_events_loader"><a class="load_more_events" id="load_more_events" href="#" style="display:none"><strong>Load more events</strong></a></div></div>
+</div>
+<p>&nbsp;</p>
+<p><a href="https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events-faq/"><span style="font-size: 18pt;"><strong>Frequently Asked Questions</strong></span></a></p>
+<p>&nbsp;</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this post:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-6321" class="share-twitter sd-button share-icon" href="https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/?share=twitter" target="_blank" title="Click to share on Twitter" ><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-6321" class="share-facebook sd-button share-icon" href="https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/?share=facebook" target="_blank" title="Click to share on Facebook" ><span>Facebook</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon" href="https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/#print" target="_blank" title="Click to print" ><span>Print</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon" href="mailto:?subject=%5BShared%20Post%5D%20NCBI%20Outreach%20Events&body=https%3A%2F%2Fncbiinsights.ncbi.nlm.nih.gov%2Fncbi-outreach-events%2F&share=email" target="_blank" title="Click to email a link to a friend" data-email-share-error-title="Do you have email set up?" data-email-share-error-text="If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself." data-email-share-nonce="32ce549473" data-email-share-track-url="https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-outreach-events/?share=email"><span>Email</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-42777678-6321-663a8992e2470' data-src='https://widgets.wp.com/likes/?ver=13.4-a.9#blog_id=42777678&amp;post_id=6321&amp;origin=ncbiinsights.ncbi.nlm.nih.gov&amp;obj_id=42777678-6321-663a8992e2470&amp;n=1' data-name='like-post-frame-42777678-6321-663a8992e2470' data-title='Like or Reblog'><h3 class="sd-title">Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>					</div><!-- .entry-content -->
+</article><!-- #post-## -->
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<div id="secondary" class="widget-area" role="complementary">
+  <button id="sidebar-section-header" class="sidebar-section_header icon-section_header" aria-expanded="false" aria-controls="sidebar-acc" tabindex="0">Menu</button>
+  <div id="sidebar-acc" role="region" aria-labelledby="sidebar-section-header" class="sidebar-section_container icon-section_container">
+    <aside id="custom_html-2" class="widget_text widget widget_custom_html"><h2 class="widget-title">About NCBI</h2><div class="textwidget custom-html-widget"><ul>
+	<li><a href="/about/">About This Blog</a></li>
+	<li><a href="https://ncbi.nlm.nih.gov/">NCBI Website</a></li>
+	</ul></div></aside><aside id="custom_html-4" class="widget_text widget widget_custom_html"><h2 class="widget-title">NCBI Outreach Events</h2><div class="textwidget custom-html-widget"><ul>
+	<li><a href="/event_listing_type/ncbi-workshop">Workshops</a><br/><em>Hands-on, interactive training sessions</em></li>
+	<li><a href="/event_listing_type/ncbi-codeathon">Codeathons</a><br/><em>Collaborative project-based events</em></li>
+	<li><a href="/event_listing_type/ncbi-conference/">Conferences</a><br/><em>NCBI activities at scientific meetings</em></li>
+	<li><a href="/ncbi-outreach-events/">View all events</a><br/></li>
+</ul></div></aside><aside id="custom_html-3" class="widget_text widget widget_custom_html"><h2 class="widget-title">Subscribe to our mailing lists</h2><div class="textwidget custom-html-widget">	<ul><li><a href="https://public.govdelivery.com/accounts/USNLMOCPL/subscriber/new?topic_id=USNLMOCPL_52">NCBI Announcements</a><br/>
+	<em>Updates about our resources and events</em></li>
+	<li><a href="https://public.govdelivery.com/accounts/USNLMOCPL/subscriber/new?topic_id=USNLMOCPL_50">NIH Comparative Genomics Resource</a><br/>
+	<em>News on CGR-related data and tools</em></li>
+	<li><a href="https://ncbiinsights.ncbi.nlm.nih.gov/ncbi-rss-feeds-listservs/">View all mailing lists and news feeds</a></li></ul>
+	</div></aside><aside id="archives-3" class="widget widget_archive"><h2 class="widget-title">NCBI Insights Archives</h2>		<label class="screen-reader-text" for="archives-dropdown-3">NCBI Insights Archives</label>
+		<select id="archives-dropdown-3" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2024/05/'> May 2024 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2024/04/'> April 2024 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2024/03/'> March 2024 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2024/02/'> February 2024 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2024/01/'> January 2024 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/12/'> December 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/11/'> November 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/10/'> October 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/09/'> September 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/08/'> August 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/07/'> July 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/06/'> June 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/05/'> May 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/04/'> April 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/03/'> March 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/02/'> February 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2023/01/'> January 2023 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/12/'> December 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/11/'> November 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/10/'> October 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/09/'> September 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/08/'> August 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/07/'> July 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/06/'> June 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/05/'> May 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/04/'> April 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/'> March 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/02/'> February 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2022/01/'> January 2022 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/12/'> December 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/11/'> November 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/10/'> October 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/09/'> September 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/08/'> August 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/07/'> July 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/06/'> June 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/05/'> May 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/04/'> April 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/03/'> March 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/02/'> February 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2021/01/'> January 2021 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/12/'> December 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/11/'> November 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/10/'> October 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/09/'> September 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/08/'> August 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/07/'> July 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/06/'> June 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/05/'> May 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/04/'> April 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/03/'> March 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/02/'> February 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2020/01/'> January 2020 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/12/'> December 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/11/'> November 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/10/'> October 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/09/'> September 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/08/'> August 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/07/'> July 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/06/'> June 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/05/'> May 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/04/'> April 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/03/'> March 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/02/'> February 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2019/01/'> January 2019 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/12/'> December 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/11/'> November 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/10/'> October 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/09/'> September 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/08/'> August 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/07/'> July 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/06/'> June 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/05/'> May 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/04/'> April 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/03/'> March 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/02/'> February 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2018/01/'> January 2018 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/12/'> December 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/11/'> November 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/10/'> October 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/09/'> September 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/08/'> August 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/07/'> July 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/06/'> June 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/05/'> May 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/04/'> April 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/03/'> March 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/02/'> February 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2017/01/'> January 2017 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2016/12/'> December 2016 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2016/11/'> November 2016 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2016/10/'> October 2016 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2016/09/'> September 2016 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2016/07/'> July 2016 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2016/05/'> May 2016 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2016/03/'> March 2016 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2016/02/'> February 2016 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2016/01/'> January 2016 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2015/12/'> December 2015 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2015/10/'> October 2015 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2015/09/'> September 2015 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2015/08/'> August 2015 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2015/07/'> July 2015 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2015/05/'> May 2015 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2015/04/'> April 2015 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2015/03/'> March 2015 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2015/02/'> February 2015 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2014/12/'> December 2014 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2014/10/'> October 2014 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2014/08/'> August 2014 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2014/06/'> June 2014 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2014/05/'> May 2014 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2014/04/'> April 2014 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2014/03/'> March 2014 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2014/01/'> January 2014 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/12/'> December 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/11/'> November 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/10/'> October 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/09/'> September 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/07/'> July 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/06/'> June 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/05/'> May 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/04/'> April 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/03/'> March 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/02/'> February 2013 </option>
+	<option value='https://ncbiinsights.ncbi.nlm.nih.gov/2013/01/'> January 2013 </option>
+
+		</select>
+
+			<script type="text/javascript">
+/* <![CDATA[ */
+
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-3" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+
+/* ]]> */
+</script>
+</aside><aside id="block-2" class="widget widget_block"><a href="https://www.ncbi.nlm.nih.gov/books/NBK1969/">NCBI News Archive 1994-2017</a></aside>  </div>
+</div><!-- #secondary -->
+
+</div><!-- #content -->
+
+<footer>
+  <section class="icon-section">
+    <div id="icon-section-header" class="icon-section_header" tabindex="0">Contact NCBI on</div>
+
+    <div class="grid-container">
+      <div class="icon-section_container">
+        <a class="footer-icon" id="footer_twitter" href="https://twitter.com/ncbi" aria-label="Twitter"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+						<title>Twitter</title>
+						<g id="State=Default">
+							<path id="path1009" d="M6.06736 7L16.8778 20.8991L6.00001 32.2H10.2L18.6 23.1L25.668 32.2H34L22.8 17.5L31.9 7H28.4L20.7 15.4L14.401 7H6.06898H6.06736ZM9.66753 8.73423H12.9327L29.7327 30.4658H26.5697L9.66753 8.73423Z" fill="#5B616B"></path>
+						</g>
+					</svg></a>
+        <a class="footer-icon" id="footer_facebook" href="https://www.facebook.com/ncbi.nlm" aria-label="Facebook"><svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+            <title>Facebook</title>
+            <path class="cls-11" d="M210.5,115.12H171.74V97.82c0-8.14,5.39-10,9.19-10h27.14V52l-39.32-.12c-35.66,0-42.42,26.68-42.42,43.77v19.48H99.09v36.32h27.24v109h45.41v-109h35Z">
+            </path>
+          </svg></a>
+        <a class="footer-icon" id="footer_linkedin" href="https://www.linkedin.com/company/ncbinlm" aria-label="LinkedIn"><svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+            <title>LinkedIn</title>
+            <path class="cls-11" d="M101.64,243.37H57.79v-114h43.85Zm-22-131.54h-.26c-13.25,0-21.82-10.36-21.82-21.76,0-11.65,8.84-21.15,22.33-21.15S101.7,78.72,102,90.38C102,101.77,93.4,111.83,79.63,111.83Zm100.93,52.61A17.54,17.54,0,0,0,163,182v61.39H119.18s.51-105.23,0-114H163v13a54.33,54.33,0,0,1,34.54-12.66c26,0,44.39,18.8,44.39,55.29v58.35H198.1V182A17.54,17.54,0,0,0,180.56,164.44Z">
+            </path>
+          </svg></a>
+        <a class="footer-icon" id="footer_github" href="https://github.com/ncbi" aria-label="GitHub"><svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+            <defs>
+              <style>
+                .cls-11,
+                .cls-12 {
+                  fill: #737373;
+                }
+
+                .cls-11 {
+                  fill-rule: evenodd;
+                }
+              </style>
+            </defs>
+            <title>GitHub</title>
+            <path class="cls-11" d="M151.36,47.28a105.76,105.76,0,0,0-33.43,206.1c5.28,1,7.22-2.3,7.22-5.09,0-2.52-.09-10.85-.14-19.69-29.42,6.4-35.63-12.48-35.63-12.48-4.81-12.22-11.74-15.47-11.74-15.47-9.59-6.56.73-6.43.73-6.43,10.61.75,16.21,10.9,16.21,10.9,9.43,16.17,24.73,11.49,30.77,8.79,1-6.83,3.69-11.5,6.71-14.14C108.57,197.1,83.88,188,83.88,147.51a40.92,40.92,0,0,1,10.9-28.39c-1.1-2.66-4.72-13.42,1-28,0,0,8.88-2.84,29.09,10.84a100.26,100.26,0,0,1,53,0C198,88.3,206.9,91.14,206.9,91.14c5.76,14.56,2.14,25.32,1,28a40.87,40.87,0,0,1,10.89,28.39c0,40.62-24.74,49.56-48.29,52.18,3.79,3.28,7.17,9.71,7.17,19.58,0,14.15-.12,25.54-.12,29,0,2.82,1.9,6.11,7.26,5.07A105.76,105.76,0,0,0,151.36,47.28Z">
+            </path>
+            <path class="cls-12" d="M85.66,199.12c-.23.52-1.06.68-1.81.32s-1.2-1.06-.95-1.59,1.06-.69,1.82-.33,1.21,1.07.94,1.6Zm-1.3-1">
+            </path>
+            <path class="cls-12" d="M90,203.89c-.51.47-1.49.25-2.16-.49a1.61,1.61,0,0,1-.31-2.19c.52-.47,1.47-.25,2.17.49s.82,1.72.3,2.19Zm-1-1.08">
+            </path>
+            <path class="cls-12" d="M94.12,210c-.65.46-1.71,0-2.37-.91s-.64-2.07,0-2.52,1.7,0,2.36.89.65,2.08,0,2.54Zm0,0"></path>
+            <path class="cls-12" d="M99.83,215.87c-.58.64-1.82.47-2.72-.41s-1.18-2.06-.6-2.7,1.83-.46,2.74.41,1.2,2.07.58,2.7Zm0,0">
+            </path>
+            <path class="cls-12" d="M107.71,219.29c-.26.82-1.45,1.2-2.64.85s-2-1.34-1.74-2.17,1.44-1.23,2.65-.85,2,1.32,1.73,2.17Zm0,0">
+            </path>
+            <path class="cls-12" d="M116.36,219.92c0,.87-1,1.59-2.24,1.61s-2.29-.68-2.3-1.54,1-1.59,2.26-1.61,2.28.67,2.28,1.54Zm0,0">
+            </path>
+            <path class="cls-12" d="M124.42,218.55c.15.85-.73,1.72-2,1.95s-2.37-.3-2.52-1.14.73-1.75,2-2,2.37.29,2.53,1.16Zm0,0"></path>
+          </svg></a>
+        <a class="footer-icon" id="footer_blog" href="https://ncbiinsights.ncbi.nlm.nih.gov/" aria-label="Blog">
+          <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><defs><style>.cls-1{fill:#737373;}</style></defs><path class="cls-1" d="M14,30a4,4,0,1,1-4-4,4,4,0,0,1,4,4Zm11,3A19,19,0,0,0,7.05,15a1,1,0,0,0-1,1v3a1,1,0,0,0,.93,1A14,14,0,0,1,20,33.07,1,1,0,0,0,21,34h3a1,1,0,0,0,1-1Zm9,0A28,28,0,0,0,7,6,1,1,0,0,0,6,7v3a1,1,0,0,0,1,1A23,23,0,0,1,29,33a1,1,0,0,0,1,1h3A1,1,0,0,0,34,33Z"></path></svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="container-fluid bg-primary">
+    <div class="container pt-5">
+      <div class="row mt-3">
+        <div class="col-lg-3 col-12">
+          <p><a class="text-white" href="https://www.nlm.nih.gov/socialmedia/index.html">Connect with NLM</a></p>
+          <ul class="list-inline social_media">
+            <li class="list-inline-item"><a href="https://www.facebook.com/nationallibraryofmedicine" aria-label="Facebook" rel="noopener noreferrer" target="_blank">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 249 249" style="enable-background:new 0 0 249 249;" xml:space="preserve">
+                  <style type="text/css">
+                    .st10 {
+                      fill: #FFFFFF;
+                    }
+
+                    .st110 {
+                      fill: none;
+                      stroke: #FFFFFF;
+                      stroke-width: 8;
+                      stroke-miterlimit: 10;
+                    }
+                  </style>
+                  <title>SM-Facebook</title>
+                  <g>
+                    <g>
+                      <path class="st10" d="M159,99.1h-24V88.4c0-5,3.3-6.2,5.7-6.2h16.8V60l-24.4-0.1c-22.1,0-26.2,16.5-26.2,27.1v12.1H90v22.5h16.9
+                                                  v67.5H135v-67.5h21.7L159,99.1z"></path>
+                    </g>
+                  </g>
+                  <circle class="st110" cx="123.6" cy="123.2" r="108.2"></circle>
+                </svg>
+              </a>
+            </li>
+            <li class="list-inline-item"><a href="https://twitter.com/nlm_nih" aria-label="Twitter" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 36 35" fill="none">
+								<title>Twitter</title>
+								<g id="X icon" clip-path="url(#clip0_65276_3946)">
+									<path id="Vector" d="M17.5006 34.6565C26.9761 34.6565 34.6575 26.9751 34.6575 17.4996C34.6575 8.02416 26.9761 0.342773 17.5006 0.342773C8.02514 0.342773 0.34375 8.02416 0.34375 17.4996C0.34375 26.9751 8.02514 34.6565 17.5006 34.6565Z" fill="#205493" stroke="white" stroke-width="1.0" stroke-miterlimit="10"></path>
+									<path id="path1009" d="M8.54811 8.5L16.2698 18.4279L8.50001 26.5H11.5L17.5 20L22.5486 26.5H28.5L20.5 16L27 8.5H24.5L19 14.5L14.5007 8.5H8.54927H8.54811ZM11.1197 9.73873H13.4519L25.4519 25.2613H23.1926L11.1197 9.73873Z" fill="white"></path>
+								</g>
+								<defs>
+									<clipPath id="clip0_65276_3946">
+										<rect width="35" height="35" fill="white"></rect>
+									</clipPath>
+								</defs>
+							</svg></a></li>
+            <li class="list-inline-item"><a href="https://www.youtube.com/user/NLMNIH" aria-label="Youtube" target="_blank" rel="noopener noreferrer"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 249 249" style="enable-background:new 0 0 249 249;" xml:space="preserve">
+                  <title>SM-Youtube</title>
+                  <style type="text/css">
+                    .st4 {
+                      fill: none;
+                      stroke: #FFFFFF;
+                      stroke-width: 8;
+                      stroke-miterlimit: 10;
+                    }
+
+                    .st5 {
+                      fill: #FFFFFF;
+                    }
+                  </style>
+                  <circle class="st4" cx="124.2" cy="123.4" r="108.2"></circle>
+                  <g transform="translate(0,-952.36218)">
+                    <path class="st5" d="M88.4,1037.4c-10.4,0-18.7,8.3-18.7,18.7v40.1c0,10.4,8.3,18.7,18.7,18.7h72.1c10.4,0,18.7-8.3,18.7-18.7
+                                        v-40.1c0-10.4-8.3-18.7-18.7-18.7H88.4z M115.2,1058.8l29.4,17.4l-29.4,17.4V1058.8z"></path>
+                  </g>
+                </svg></a></li>
+          </ul>
+        </div>
+        <div class="col-lg-3 col-12">
+          <p class="address_footer text-white">National Library of Medicine<br>
+            <a href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323" class="text-white" target="_blank" rel="noopener noreferrer">8600 Rockville Pike<br>
+              Bethesda, MD 20894</a></p>
+        </div>
+        <div class="col-lg-3 col-12 centered-lg">
+          <p><a href="https://www.nlm.nih.gov/copyright.html" class="text-white">Copyright</a><br>
+            <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="text-white">FOIA</a><br>
+            <a href="https://www.nlm.nih.gov/privacy.html" class="text-white">Privacy</a>
+			<br><a href=" https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="text-white">HHS Vulnerability Disclosure</a>
+			</p>
+        </div>
+        <div class="col-lg-3 col-12 centered-lg">
+          <p><a class="supportLink text-white" href="https://support.nlm.nih.gov/">Help</a><br>
+            <a href="https://www.nlm.nih.gov/accessibility.html" class="text-white">Accessibility</a><br>
+            <a href="https://www.nlm.nih.gov/careers/careers.html" class="text-white">Careers</a></p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12 centered-lg">
+          <nav class="bottom-links">
+            <ul class="mt-3">
+              <li>
+                <a class="text-white" href="//www.nlm.nih.gov/">NLM</a>
+              </li>
+              <li>
+                <a class="text-white" href="https://www.nih.gov/">NIH</a>
+              </li>
+              <li>
+                <a class="text-white" href="https://www.hhs.gov/">HHS</a>
+              </li>
+              <li>
+                <a class="text-white" href="https://www.usa.gov/">USA.gov</a>
+              </li>
+            </ul></nav>
+        </div>
+      </div>
+    </div>
+    <button class="usa-button" id="btn_backToTop">Back To Top</button>
+  </section>
+</footer>
+
+
+</div><!-- #page -->
+
+<!--  -->
+<style>
+			.sd-social-icon .sd-content ul li a.sd-button>span {
+				margin-left: 0;
+			}
+		</style><script defer id="bilmur" data-provider="wordpress.com" data-service="atomic"  src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202419"></script>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/ncbiinsights.ncbi.nlm.nih.gov\/ncbi-outreach-events\/":6321};
+	</script>
+				<link rel='stylesheet' id='all-css-ba662b664ec88f472036e69c7275e386' href='https://ncbiinsights.ncbi.nlm.nih.gov/_static/??-eJytjcEKwyAQRH8oqwmBlBxKv2Wxi9jG1bprxb+PpbeeC3Oa95hpGVxiJVabj+oDi20Z6D0KiMjoqVgUIRX7GHlVKh1qgDsqFWRPObjncL7EuBSDUDI/2DiRqf3pSrQfJJ/JW7wu277N82VflxMV6Ux6' type='text/css' media='all' />
+<script type="text/javascript" id="coblocks-tinyswiper-initializer-js-extra">
+/* <![CDATA[ */
+var coblocksTinyswiper = {"carouselPrevButtonAriaLabel":"Previous","carouselNextButtonAriaLabel":"Next","sliderImageAriaLabel":"Image"};
+/* ]]> */
+</script>
+<script type='text/javascript'  src='https://ncbiinsights.ncbi.nlm.nih.gov/_static/??-eJyVUstuAyEM/KFSuuqhyqHqp0TE6914AUOxSZp+fdmu8lCVqIk4IMae8dh4nw0kVmS1usWIYofi2AdiA1sKvenm01kngip2EitQKOvzJE/7MzeHOhK3OGp24I/3eofcp2Jd1RSdKsExYii6EQ30bHsStafnDWFIm5DAy5I9nQHjuHGV0t3MxZNYJT4Y2VPG8nDRmbtQDTEpuUDfN2UahK2omui4dVkuhgkpxuY80tE9MYTa429w+qxYDrZSSyt4kfRAgUWj+Y2YCXyLLcjzGbki/HcVAo4ODrPeUBnmYcvdDHY7Gq990G2KeMqmQd4MCaqYgb7+2bd1m5vd1LawNpBvqq3JilvHfTg1+BHfu7eue111q9XLD2kyIF4='></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202419.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"42777678\",\"post\":\"6321\",\"tz\":\"-4\",\"srv\":\"ncbiinsights.ncbi.nlm.nih.gov\",\"hp\":\"atomic\",\"ac\":\"2\",\"amp\":\"0\",\"j\":\"1:13.4-a.9\"}") ]);
+_stq.push([ "clickTrackerInit", "42777678", "6321" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-event-manager-content-event-listing-js-extra">
+/* <![CDATA[ */
+var event_manager_content_event_listing = {"i18n_datepicker_format":"mm-dd-yy","i18n_initialText":"Select Date Range","i18n_applyButtonText":"Apply","i18n_clearButtonText":"Clear","i18n_cancelButtonText":"Cancel","i18n_monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"i18n_today":"Today","i18n_tomorrow":"Tomorrow","i18n_thisWeek":"This Week","i18n_nextWeek":"Next Week","i18n_thisMonth":"This Month","i18n_nextMonth":"Next Month","i18n_thisYear":"This Year","i18n_nextYear":"Next Year"};
+/* ]]> */
+</script>
+<script type='text/javascript'  src='https://ncbiinsights.ncbi.nlm.nih.gov/_static/??-eJyFy0EOgjAQheELCUVjMCyMZyllUgfaae3MgN5eQth3+973b7lxiQRITA7qkdhsuYF1H5poyXooxjKDsJnZnPT8A7Ig+TYitTNf9g7JBZ3gsPNHofyM4lGVFHxJmuv4DW4Z07fYCVNVjyqSqMomK5DRLVCqNALpiV7xee2Hvusew+3+Bz+Pb1Y='></script>
+<script type="text/javascript" src="https://ncbiinsights.ncbi.nlm.nih.gov/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4" id="moment-js"></script>
+<script type="text/javascript" id="moment-js-after">
+/* <![CDATA[ */
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-event-manager-ajax-filters-js-extra">
+/* <![CDATA[ */
+var event_manager_ajax_filters = {"ajax_url":"\/em-ajax\/%%endpoint%%\/","is_rtl":"0","lang":null};
+/* ]]> */
+</script>
+<script type='text/javascript'  src='https://ncbiinsights.ncbi.nlm.nih.gov/_static/??-eJydj9EKwjAMRX/IthvCZA/it4Quzsw2rU1n1a+3sAnim4NA4NxwLilR2cAZOZvo5pFYTIkK7xUoDwwjJgMimMVMdW4zpqeaSQ2QMQGPGMle682SaBs8CQb9E+tJdmVL04CCicDRCz8VX2iz1l6CIJtl6VXsif8XLhwmeKgzufq0rJ6TP7Zd3zXNod+3b1SNiEM='></script>
+<script type="text/javascript" id="sharing-js-js-extra">
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://ncbiinsights.ncbi.nlm.nih.gov/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=13.4-a.9" id="sharing-js-js"></script>
+<script type="text/javascript" id="sharing-js-js-after">
+/* <![CDATA[ */
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+/* ]]> */
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=20240507#ver=20240507&#038;n=1' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars' class='wpl-new-layout' role="dialog" aria-hidden="true" tabindex="-1"><div class="likes-text"><span>%d</span></div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	
+</body>
+</html>
