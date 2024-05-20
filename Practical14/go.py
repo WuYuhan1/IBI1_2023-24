@@ -26,9 +26,9 @@ for term in terms:
     #count the number
     if namespace=='molecular_function':
         molecular_function+=1
-    if namespace=='biological_process':
+    elif namespace=='biological_process':
         biological_process+=1
-    if namespace=='cellular_component':
+    elif namespace=='cellular_component':
         cellular_component+=1
 #print the result
 print('DOM:')
@@ -40,13 +40,55 @@ domend=datetime.datetime.now()
 #calculate and print the time
 print('DOM time: ',domend-domstart)
 #SAX
-
+saxstart=datetime.datetime.now()
+parser=xml.sax.make_parser()
+parser.setFeature(xml.sax.handler.feature_namespaces, 0)
+class gohandler(xml.sax.ContentHandler):
+    def __init__(self):
+        self.currentdata=''
+        self.molecular_function=0
+        self.biological_process=0
+        self.cellular_component=0
+        self.namespace=''
+        self.a=0
+    def startElement(self,tag,attributes):
+        self.currentdata=tag
+    def characters(self, content):
+        if self.currentdata=='namespace':  
+            self.namespace=content     
+    def endElement(self,tag):
+        if self.currentdata=='namespace':
+            if self.namespace=='molecular_function':
+                self.molecular_function+=1
+            elif self.namespace=='biological_process':
+                self.biological_process+=1
+            elif self.namespace=='cellular_component':
+                self.cellular_component+=1
+        self.currentdata=''
+    def printresult(self):
+        print('molecular function: ',self.molecular_function)
+        print('biological process: ',self.biological_process)
+        print('cellular component: ',self.cellular_component)
+parser.setFeature(xml.sax.handler.feature_namespaces, 0)
+handler=gohandler()
+parser.setContentHandler(handler)
+parser.parse('go_obo.xml')
+print('SAX:')
+handler.printresult()
+saxend=datetime.datetime.now()
+print('SAX time: ',saxend-saxstart)
 #draw the plot
-ontology=['molecular function','biological process','cellular component']
-number=[molecular_function,biological_process,cellular_component]
-plt.bar(ontology,number,)
+ontology1=['molecular function','biological process','cellular component']
+number1=[molecular_function,biological_process,cellular_component]
+plt.bar(ontology1,number1,)
 plt.title('number of ontologies(DOM)')
 plt.xlabel('ontology')
 plt.ylabel('number')
 plt.show()
 plt.clf()
+
+#compare the time
+if domend-domstart>saxend-saxstart:
+    print('DOM is quicker.')
+if domend-domstart<saxend-saxstart:
+    print('SAX is quicker.')
