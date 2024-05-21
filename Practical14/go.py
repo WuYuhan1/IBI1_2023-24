@@ -77,6 +77,11 @@ print('SAX:')
 handler.printresult()
 saxend=datetime.datetime.now()
 print('SAX time: ',saxend-saxstart)
+#compare the time
+if domend-domstart<saxend-saxstart:
+    print('DOM is quicker.')
+if domend-domstart>saxend-saxstart:
+    print('SAX is quicker.')
 #draw the plot
 ontology1=['molecular function','biological process','cellular component']
 number1=[molecular_function,biological_process,cellular_component]
@@ -86,9 +91,3 @@ plt.xlabel('ontology')
 plt.ylabel('number')
 plt.show()
 plt.clf()
-
-#compare the time
-if domend-domstart>saxend-saxstart:
-    print('DOM is quicker.')
-if domend-domstart<saxend-saxstart:
-    print('SAX is quicker.')
